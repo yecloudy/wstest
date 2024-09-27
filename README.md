@@ -12,3 +12,4 @@ test for terraform
 ### •	Redirect any 404 errors to a custom static page.
 ### •	Add a Database to your automation and have your application serve the data stored in addition to the instance ID.
 ## 6 A problem,Terraform appears "Error: Cycle" when creating an EC2 instance using the provision function
+## 7 If you want to run the code in aws,please change the line(119) "certificate_arn   = "arn:aws:acm:us-west-2:842376562637:certificate/710f50b0-10ad-4b23-b29a-4e03f607b7b7"" certificate_arn to your own certificate_arn
