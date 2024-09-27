@@ -1,0 +1,2 @@
+# wstest
+test for terraform
