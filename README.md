@@ -7,4 +7,4 @@ test for terraform
 ## 5 Continue to modify basic functions and add additional features
 ## 6 A problem,terraform appears "Error: Cycle" when creating an EC2 instance using the provision function and eip
 ## 7 If you want to run the code in aws,please change the line(119) "certificate_arn   = "arn:aws:acm:us-west-2:842376562637:certificate/710f50b0-10ad-4b23-b29a-4e03f607b7b7"" certificate_arn to your own certificate_arn
-## 8 If given unlimited time and resource,I will further automate the management by creating a web which can drive to execute terraform or using github trigger
+## 8 If given unlimited time and resource,I will further automate the management by creating a web which can drive to execute terraform or using github trigger,or jenkins
