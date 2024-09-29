@@ -8,5 +8,7 @@ test for terraform
 ### ![image](https://github.com/user-attachments/assets/7dcb737e-dd4d-45dc-93e9-77e643693b76)
 ### ![image](https://github.com/user-attachments/assets/f57e809b-abc1-4877-8e56-a1d695504eb8)
 ### ![image](https://github.com/user-attachments/assets/4ec0f93c-613e-4c0a-8101-335fec3948e6)
+### ![image](https://github.com/user-attachments/assets/b0af8b3e-fa57-45c1-9043-1c0f0b2391c9)
+
 
 ## 5 If given unlimited time and resource,I will further automate the management by creating a web which can drive to execute terraform or using github trigger,or jenkins,and think about making these instances to templates or container images
